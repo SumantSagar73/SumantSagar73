@@ -130,7 +130,7 @@
 ### 💡 LeetCode & DSA Progress
 
 <div align="center">
-  <img src="https://leetcode-status.vercel.app/api/card/6073sumant?theme=neon&layout=card&border=true&hide_title=false&logo=true&logo_color=theme&animation=true&animation_duration=2s&text_color=%23e64c4c&show_stats=true&font=Lato" alt="LeetCode Stats" height="220" />
+  <img src="https://leetcard.jacoblin.cool/6073sumant?theme=dark&font=Varta&ext=heatmap&border=4&radius=12&border_color=0ff&background=000014&text_color=00eaff&heatmap=00eaff" alt="LeetCode Stats" />
 </div>
 
 ---
@@ -164,8 +164,6 @@
 <p align="center">
   💬 <i>"Building, breaking, and learning one commit at a time."</i>
 </p>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/6073sumant?theme=dark&font=Varta&ext=heatmap&border=4&radius=12&border_color=0ff&background=000014&text_color=00eaff&heatmap=00eaff" alt="LeetCode Stats" />
-</div>
+
 
 
