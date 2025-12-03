@@ -7,10 +7,6 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/sumantsagar73" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://www.youtube.com/@SumantSagar73" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
   <a href="mailto:6073sumant@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
@@ -22,7 +18,20 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SumantSagar73.SumantSagar73&" alt="profile views" />
 </div>
 
-###
+---
+
+### 🌐 Portfolio
+<div align="center">
+  <a href="[https://sumantsagar.vercel.app](https://sumant-sagar-portfolio.vercel.app/)" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" height="28" />
+  </a>
+</div>
+
+<p align="center">
+ 🚀 Explore my projects, UI designs, experiments & more — all in one place.
+</p>
+
+---
 
 <h1 align="center">hey there 👋, I'm Sumant</h1>
 
@@ -44,7 +53,6 @@
 ### 🛠️ Languages & Tools
 
 #### 💻 Programming & Scripting
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
   <img width="12" />
@@ -58,7 +66,6 @@
 </div>
 
 #### 🌐 Frontend
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -74,7 +81,6 @@
 </div>
 
 #### ⚙️ Backend & Databases
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
@@ -88,7 +94,6 @@
 </div>
 
 #### ☁️ DevOps, Cloud & Tools
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws logo" />
   <img width="12" />
@@ -102,7 +107,6 @@
 </div>
 
 #### 🎮 Game & Creative
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
   <img width="12" />
@@ -143,7 +147,6 @@
 ---
 
 ### 🤝 Let’s Connect & Build
-
 <div align="center">
   <a href="https://www.linkedin.com/in/sumantsagar73" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -161,6 +164,3 @@
 <p align="center">
   💬 <i>"Building, breaking, and learning one commit at a time."</i>
 </p>
-
-
-
