@@ -11,10 +11,7 @@
   <a href="https://www.youtube.com/@SumantSagar73" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
-  <a href="https://x.com/SumantSagar73" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-  <a href="mailto:sumantsagar739@gmail.com">
+  <a href="mailto:6073sumant@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
